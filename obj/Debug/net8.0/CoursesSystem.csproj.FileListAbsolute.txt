@@ -1,0 +1,76 @@
+V:\CoursesSystem\bin\Debug\net8.0\CoursesSystem.exe
+V:\CoursesSystem\bin\Debug\net8.0\CoursesSystem.deps.json
+V:\CoursesSystem\bin\Debug\net8.0\CoursesSystem.runtimeconfig.json
+V:\CoursesSystem\bin\Debug\net8.0\CoursesSystem.dll
+V:\CoursesSystem\bin\Debug\net8.0\CoursesSystem.pdb
+V:\CoursesSystem\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+V:\CoursesSystem\bin\Debug\net8.0\Google.Protobuf.dll
+V:\CoursesSystem\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+V:\CoursesSystem\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+V:\CoursesSystem\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+V:\CoursesSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+V:\CoursesSystem\bin\Debug\net8.0\MySql.Data.dll
+V:\CoursesSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+V:\CoursesSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+V:\CoursesSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+V:\CoursesSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+V:\CoursesSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+V:\CoursesSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+V:\CoursesSystem\bin\Debug\net8.0\ZstdSharp.dll
+V:\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+V:\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+V:\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+V:\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+V:\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+V:\CoursesSystem\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+V:\CoursesSystem\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.csproj.AssemblyReference.cache
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.GeneratedMSBuildEditorConfig.editorconfig
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.AssemblyInfoInputs.cache
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.AssemblyInfo.cs
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.csproj.CoreCompileInputs.cache
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.csproj.CopyComplete
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.dll
+V:\CoursesSystem\obj\Debug\net8.0\refint\CoursesSystem.dll
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.pdb
+V:\CoursesSystem\obj\Debug\net8.0\CoursesSystem.genruntimeconfig.cache
+V:\CoursesSystem\obj\Debug\net8.0\ref\CoursesSystem.dll
+V:\CoursesSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\CoursesSystem.exe
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\CoursesSystem.deps.json
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\CoursesSystem.runtimeconfig.json
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\CoursesSystem.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\CoursesSystem.pdb
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesSystem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesSystem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesSystem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesS.9E322122.Up2Date
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesSystem.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\refint\CoursesSystem.dll
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesSystem.pdb
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\CoursesSystem.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Máy tính\vtc\7 Pr1\4\PF1123_OnlineCourses_SourceCodeC#\CoursesSystem\obj\Debug\net8.0\ref\CoursesSystem.dll
